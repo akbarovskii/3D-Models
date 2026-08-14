@@ -9,9 +9,9 @@
 
 <img src="./Photo/Carting_1.png" width="250" alt="Work_1"> <img src="./Photo/Carting_2.png" width="250" alt="Work_2"> <img src="./Photo/Carting_3.png" width="250" alt="Work_3">
 
-## 🔊 SMART SPEAKER
+## 🍽️ PLATE AND SPOONn
 
-<img src="./Infographics/Умная%20колонка%20VK%20Капсула%20Мини%20с%20голосовым%20помощником%20Марусей,%20морской%20синий%20(MRC02BL).png" width="250" alt="Work_1"> <img src="./Infographics/Умная%20колонка%20VK%20Капсула%20Мини%20с%20голосовым%20помощником%20Марусей,%20белый%20(MRC02BL).png" width="250" alt="Work_2"> <img src="./Infographics/Умная%20колонка%20VK%20Капсула%20Мини%20с%20голосовым%20помощником%20Марусей,%20чёрный%20(MRC02BL).png" width="250" alt="Work_3">
+<img src="./Photo/PlateAndSpoon_1.png" width="250" alt="Work_1"> <img src="./Photo/PlateAndSpoon_2.png" width="250" alt="Work_2"> <img src="./Photo/PlateAndSpoon_3.png" width="250" alt="Work_3">
 
 
 ### 🛠 Tools
