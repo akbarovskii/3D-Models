@@ -7,7 +7,7 @@
 
 ## 🌪️ DYSON HAIRDRYER
 
-<img src="./Infographics/ФЕН%20DAISON%20товар.png" width="250" alt="Work_1"> <img src="./Infographics/ФЕН%20DAISON%20превосходство.png" width="250" alt="Work_2"> <img src="./Infographics/ФЕН%20DAISON%20описание.png" width="250" alt="Work_3">
+<img src="./Photo/Battery_1.png" width="250" alt="Work_1"> <img src="./Photo/Battery_2.png" width="250" alt="Work_2">
 
 ## 🔊 SMART SPEAKER
 
