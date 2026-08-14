@@ -15,13 +15,20 @@
 
 ## 🎮 GAMING CONSOLE
 
-<img src="./Photo/GamingConsole_1.png" width="250" alt="Work_1"> <img src="./Photo/GamingConsole_2.png" width="250" alt="Work_2"> <img src="./Photo/GamingConsole_3.png" width="250" alt="Work_3">
+<img src="./Photo/GamingConsole_1.png" width="250" alt="Work_1"> <img src="./Photo/GamingConsole_2.png" width="250" alt="Work_2">
+
+## ⚙️RACK
+
+<img src="./Photo/Rack_1.png" width="250" alt="Work_1"> <img src="./Photo/Rack_2.png" width="250" alt="Work_2">
+
+## 🔋BATTERY
+
+<img src="./Photo/Battery_1.png" width="250" alt="Work_1"> <img src="./Photo/Battery_2.png" width="250" alt="Work_2">
 
 ### 🛠 Tools
 * Design: Blender
 
 ### 🔒 Copyright
-© 2025–2026 **Akbarov Damir**. All rights reserved.
+© 2023–2026 **Akbarov Damir**. All rights reserved.
 
-This project and all its visual assets (infographics, charts, designs) were created using **Figma** and are for portfolio demonstration purposes only. 
-Unauthorized copying, modification, or commercial use of these materials without the author's express written permission is strictly prohibited.
+This project and all its visual assets (3D models, textures, renders, and designs) were created using **Blender** and are for portfolio demonstration purposes only. Unauthorized copying, modification, or commercial use of these materials without the author's express written permission is strictly prohibited.
