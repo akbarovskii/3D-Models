@@ -9,13 +9,16 @@
 
 <img src="./Photo/Carting_1.png" width="250" alt="Work_1"> <img src="./Photo/Carting_2.png" width="250" alt="Work_2"> <img src="./Photo/Carting_3.png" width="250" alt="Work_3">
 
-## 🍽️ PLATE AND SPOONn
+## 🍽️ PLATE AND SPOON
 
 <img src="./Photo/PlateAndSpoon_1.png" width="250" alt="Work_1"> <img src="./Photo/PlateAndSpoon_2.png" width="250" alt="Work_2"> <img src="./Photo/PlateAndSpoon_3.png" width="250" alt="Work_3">
 
+## 🎮 GAMING CONSOLE
+
+<img src="./Photo/GamingConsole_1.png" width="250" alt="Work_1"> <img src="./Photo/GamingConsole_2.png" width="250" alt="Work_2"> <img src="./Photo/GamingConsole_3.png" width="250" alt="Work_3">
 
 ### 🛠 Tools
-* Design: Figma
+* Design: Blender
 
 ### 🔒 Copyright
 © 2025–2026 **Akbarov Damir**. All rights reserved.
