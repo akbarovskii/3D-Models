@@ -12,6 +12,9 @@ These models were custom-built for a collaborative indie horror game project tha
 
 <img src="./Photo/Battery_1.png" width="250" alt="Work_1"> <img src="./Photo/Battery_2.png" width="250" alt="Work_2">
 
+*   **Storage Racks (Shelves):** Environmental structural props created with optimized topology. Designed specifically to work with our dynamic pixel shader, allowing the geometric edges and custom surface textures to correctly render with a retro, aliased PSX look.
+
+<img src="./Photo/Rack_1.png" width="250" alt="Work_1"> <img src="./Photo/Rack_2.png" width="250" alt="Work_2">
 
 ### 🔹 Flat Stylized & Minimalist Game Prototypes
 These assets were designed for separate arcade and exploratory game prototypes. The technical focus here was on clean minimalist geometry, solid-color shading, and bright, distinct silhouettes:
@@ -25,11 +28,9 @@ These assets were designed for separate arcade and exploratory game prototypes. 
 <img src="./Photo/Carting_1.png" width="250" alt="Work_1"> <img src="./Photo/Carting_2.png" width="250" alt="Work_2"> <img src="./Photo/Carting_3.png" width="250" alt="Work_3">
 
 
-*   **Gaming Console & Storage Racks:** Structural and electronic environment props utilizing optimized shapes, distinct silhouettes, and clean bevels.
+*   **Gaming Console:** A handheld structural and electronic environment prop utilizing optimized shapes, distinct silhouettes, and clean bevels.
     
 <img src="./Photo/GamingConsole_1.png" width="250" alt="Work_1"> <img src="./Photo/GamingConsole_2.png" width="250" alt="Work_2">
-
-<img src="./Photo/Rack_1.png" width="250" alt="Work_1"> <img src="./Photo/Rack_2.png" width="250" alt="Work_2">
 
 *   **Tableware (Plate & Spoon):** Everyday environment props focusing on clean cylindrical topology and smooth shading.
     
@@ -39,8 +40,8 @@ These assets were designed for separate arcade and exploratory game prototypes. 
 ## 💻 Technical Standards & Toolchain
 
 *   **Primary Software:** Blender (Modeling, UV Unwrapping, Texture Mapping, Rendering)
-*   **Production Context:** Asset creation based on strict project constraints (Retro PSX vs. Modern Low-Poly)
-*   **Workflow Guidelines:** Strict polygon budgets, clean quad-dominant topology, strategic UV seam placement for low-res textures, and proper pivot point alignment for seamless game engine integration.
+*   **Production Context:** Asset creation based on strict project constraints, utilizing hybrid pipelines (Hand-crafted PSX textures + Real-time In-Engine Pixel Shaders).
+*   **Workflow Guidelines:** Strict polygon budgets, clean quad-dominant topology, dynamic shading readiness, and proper pivot point alignment for seamless game engine integration.
 
 ### 🛠 Tools
 * Design: Blender
