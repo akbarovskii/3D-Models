@@ -1,30 +1,31 @@
 # 🎨 3D Asset Production Portfolio (Stylized & PSX Retro Style)
 
-Welcome to my 3D computer graphics portfolio. This repository is a curated collection of original, low-poly 3D models and assets designed with a focus on stylized aesthetics and retro-game art direction. All assets are modeled, unwrapped, and textured from scratch using Blender.
+Welcome to my 3D computer graphics portfolio. This repository is a curated collection of original 3D models and assets designed for specific game projects and digital environments. All assets are modeled, unwrapped, and textured from scratch using Blender according to each game's unique technical requirements and art direction.
 
 The collection showcases two distinct approaches to low-poly asset design: Flat Stylized and PSX-style Retro Texturing.
 
-### 👾 PSX Retro-Style Assets
-Models designed to replicate the aesthetic of classic late-90s console games, focusing on low polygon counts combined with detailed, weathered textures:
 
-*   **The "Overcharge" Battery:** A classic PSX-style technical prop. It utilizes a low-poly mesh combined with a highly detailed, low-resolution texture map simulating realistic surface wear, scratches, rust, and retro graphic decals.
+### 👾 PSX Retro-Style Horror Project
+These models were custom-built for a collaborative indie horror game project that I am developing with a friend. The goal was to strictly replicate the nostalgic aesthetic of late-90s console games (PlayStation 1 era), focusing on low polygon counts paired with heavily weathered, low-resolution textures to build tension and atmosphere:
+
+*   **The "Overcharge" Battery:** A crucial technical prop for the horror game. It utilizes a highly optimized low-poly mesh combined with a detailed, low-resolution texture map that simulates realistic surface wear, scratches, rust, and retro graphic decals.
 
 <img src="./Photo/Battery_1.png" width="250" alt="Work_1"> <img src="./Photo/Battery_2.png" width="250" alt="Work_2">
 
 
-### 🔹 Flat Stylized & Minimalist Models
-Assets focused on clean minimalist geometry, solid-color shading, and strong silhouettes:
+### 🔹 Flat Stylized & Minimalist Game Prototypes
+These assets were designed for separate arcade and exploratory game prototypes. The technical focus here was on clean minimalist geometry, solid-color shading, and bright, distinct silhouettes:
 
-*   **Alien Character:** A stylized character mesh designed with balanced proportions, optimized for simple rigging and animation.
+*   **Alien Character:** A stylized character mesh designed with balanced proportions, optimized for simple rigging and organic animation.
     
 <img src="./Photo/Alien_1.png" width="250" alt="Work_1"> <img src="./Photo/Alien_2.png" width="250" alt="Work_2"> <img src="./Photo/Alien_3.png" width="250" alt="Work_3">
 
-*   **Arcade Karting Vehicle:** A compact vehicle model featuring modular parts and clean geometric forms.
+*   **Arcade Karting Vehicle:** A compact vehicle model featuring modular parts and clean geometric forms for an arcade racing prototype.
     
 <img src="./Photo/Carting_1.png" width="250" alt="Work_1"> <img src="./Photo/Carting_2.png" width="250" alt="Work_2"> <img src="./Photo/Carting_3.png" width="250" alt="Work_3">
 
 
-*   **Gaming Console & Storage Racks:** Structural and electronic props utilizing optimized shapes, distinct silhouettes, and clean bevels.
+*   **Gaming Console & Storage Racks:** Structural and electronic environment props utilizing optimized shapes, distinct silhouettes, and clean bevels.
     
 <img src="./Photo/GamingConsole_1.png" width="250" alt="Work_1"> <img src="./Photo/GamingConsole_2.png" width="250" alt="Work_2">
 
@@ -33,6 +34,13 @@ Assets focused on clean minimalist geometry, solid-color shading, and strong sil
 *   **Tableware (Plate & Spoon):** Everyday environment props focusing on clean cylindrical topology and smooth shading.
     
 <img src="./Photo/PlateAndSpoon_1.png" width="250" alt="Work_1"> <img src="./Photo/PlateAndSpoon_2.png" width="250" alt="Work_2"> <img src="./Photo/PlateAndSpoon_3.png" width="250" alt="Work_3">
+
+
+## 💻 Technical Standards & Toolchain
+
+*   **Primary Software:** Blender (Modeling, UV Unwrapping, Texture Mapping, Rendering)
+*   **Production Context:** Asset creation based on strict project constraints (Retro PSX vs. Modern Low-Poly)
+*   **Workflow Guidelines:** Strict polygon budgets, clean quad-dominant topology, strategic UV seam placement for low-res textures, and proper pivot point alignment for seamless game engine integration.
 
 ### 🛠 Tools
 * Design: Blender
