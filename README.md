@@ -1,5 +1,15 @@
-# 3D-Models
-3D models for portfolio🔧 
+# 🎨 3D Asset Production Portfolio (Stylized & PSX Retro Style)
+
+Welcome to my 3D computer graphics portfolio. This repository is a curated collection of original, low-poly 3D models and assets designed with a focus on stylized aesthetics and retro-game art direction. All assets are modeled, unwrapped, and textured from scratch using Blender.
+
+The collection showcases two distinct approaches to low-poly asset design: Flat Stylized and PSX-style Retro Texturing.
+
+### 👾 PSX Retro-Style Assets
+Models designed to replicate the aesthetic of classic late-90s console games, focusing on low polygon counts combined with detailed, weathered textures:
+
+*   **The "Overcharge" Battery:** A classic PSX-style technical prop. It utilizes a low-poly mesh combined with a highly detailed, low-resolution texture map simulating realistic surface wear, scratches, rust, and retro graphic decals.
+
+<img src="./Photo/Battery_1.png" width="250" alt="Work_1"> <img src="./Photo/Battery_2.png" width="250" alt="Work_2">
 
 ## 👽 ALIEN
 
