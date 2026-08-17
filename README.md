@@ -32,7 +32,7 @@ These assets were designed for separate arcade and exploratory game prototypes. 
 
 *   **Arcade Karting Vehicle:** A compact vehicle model featuring modular parts and clean geometric forms for an arcade racing prototype.
     
-    <img src="./Photo/Carting_1.png" width="250" alt="Work_1"> <img src="./Photo/Carting_2.png" width="250" alt="Work_2"> <img src="./Photo/Carting_3.png" width="250" alt="Work_3">
+    <img src="./Photo/Karting_1.png" width="250" alt="Work_1"> <img src="./Photo/Karting_2.png" width="250" alt="Work_2"> <img src="./Photo/Karting_3.png" width="250" alt="Work_3">
 
 *   **Gaming Console:** A handheld structural and electronic environment prop utilizing optimized shapes, distinct silhouettes, and clean bevels.
     
@@ -94,7 +94,7 @@ This project and all its visual assets (3D models, textures, renders, and design
 
 *   **街机卡丁车 (Arcade Karting)：** 用于赛车游戏原型的紧凑型载具模型，采用模块化部件组合，具备极其干净的几何外观。
     
-    <img src="./Photo/Carting_1.png" width="250" alt="Work_1"> <img src="./Photo/Carting_2.png" width="250" alt="Work_2"> <img src="./Photo/Carting_3.png" width="250" alt="Work_3">
+    <img src="./Photo/Karting_1.png" width="250" alt="Work_1"> <img src="./Photo/Karting_2.png" width="250" alt="Work_2"> <img src="./Photo/Karting_3.png" width="250" alt="Work_3">
 
 *   **掌上游戏机 (Gaming Console)：** 便携式电子设备环境道具，具备优化的器形结构、清晰的剪影和极其精细的倒角（Bevel）处理。
     
@@ -156,7 +156,7 @@ This project and all its visual assets (3D models, textures, renders, and design
 
 *   **Гоночный карт (Arcade Karting):** Компактная модель автомобиля, состоящая из модульных частей и чистых геометрических форм для прототипа аркадных гонок.
     
-    <img src="./Photo/Carting_1.png" width="250" alt="Work_1"> <img src="./Photo/Carting_2.png" width="250" alt="Work_2"> <img src="./Photo/Carting_3.png" width="250" alt="Work_3">
+    <img src="./Photo/Karting_1.png" width="250" alt="Work_1"> <img src="./Photo/Karting_2.png" width="250" alt="Work_2"> <img src="./Photo/Karting_3.png" width="250" alt="Work_3">
 
 *   **Игровая консоль (Gaming Console):** Портативный проп окружения с оптимизированной формой, четким силуэтом и аккуратными фасками.
     
