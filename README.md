@@ -6,9 +6,6 @@
 
 Welcome to my 3D computer graphics portfolio. This repository is a curated collection of original 3D models and assets designed for specific game projects and digital environments. All assets are modeled, unwrapped, and textured from scratch using Blender according to each game's unique technical requirements and art direction.
 
-The collection showcases two distinct approaches to low-poly asset design: Flat Stylized and PSX-style Retro Texturing.
-
-
 ### 👾 PSX Retro-Style Horror Project
 These models were custom-built for a collaborative indie horror game project that I am developing with a friend. The goal was to strictly replicate the nostalgic aesthetic of late-90s console games (PlayStation 1 era), focusing on low polygon counts paired with heavily weathered, low-resolution textures to build tension and atmosphere:
 
@@ -61,10 +58,6 @@ This project and all its visual assets (3D models, textures, renders, and design
 
 Добро пожаловать в мое портфолио 3D-графики. Этот репозиторий представляет собой коллекцию оригинальных 3D-моделей и ассетов, созданных для конкретных игровых проектов и цифровых сред. Все ассеты смоделированы, развернуты и текстурированы с нуля в Blender в соответствии с техническими требованиями и арт-дирекцией каждой отдельной игры.
 
----
-
-## 🛠️ Представленные игровые модели и проекты
-
 ### 👾 Хоррор-проект в ретро-стиле PSX
 Эти модели были созданы специально для совместного инди-хоррора, который я разрабатываю вместе с другом. Нашей целью было в точности воссоздать ностальгическую эстетику игр конца 90-х годов (эпохи PlayStation 1). Чтобы сделать это эффективно, мы объединили низкополигональную геометрию с кастомными текстурами и **пиксельным шейдер-эффектом на стороне игрового движка**, который имитирует ретро-рендеринг экрана, дрожание вершин и графику низкого разрешения:
 
@@ -76,7 +69,6 @@ This project and all its visual assets (3D models, textures, renders, and design
     
     <img src="./Photo/Rack_1.png" width="250" alt="Work_1"> <img src="./Photo/Rack_2.png" width="250" alt="Work_2">
 
----
 
 ### 🔹 Прототипы стилизованных и минималистичных игр
 Эти ассеты создавались для отдельных аркадных и исследовательских игровых прототипов. Технический фокус здесь был сделан на чистой минималистичной геометрии, заливке сплошным цветом и ярких, выразительных силуэтах:
@@ -97,17 +89,18 @@ This project and all its visual assets (3D models, textures, renders, and design
     
     <img src="./Photo/PlateAndSpoon_1.png" width="250" alt="Work_1"> <img src="./Photo/PlateAndSpoon_2.png" width="250" alt="Work_2"> <img src="./Photo/PlateAndSpoon_3.png" width="250" alt="Work_3">
 
----
 
 ## 💻 Технические стандарты и инструменты
 
 *   **Основной софт:** Blender (моделирование, UV-развертка, назначение материалов, рендеринг)
 *   **Контекст разработки:** Создание ассетов под жесткие ограничения проектов с использованием гибридных пайплайнов (созданные вручную текстуры PSX + пиксельные шейдеры реального времени в движке).
-*   **Оптимизация и стандарты:** Контроль полигонажа (polygon budget), чистая拓扑 структура (quads), готовность моделей к динамическому шейдингу и настройка точек пивота (pivot points) для корректного экспорта в игровой движок.
+*   **Оптимизация и стандарты:** Контроль полигонажа (polygon budget), чистая топология с преобладанием четырехугольников (quads), готовность моделей к динамическому шейдингу и настройка точек пивота (pivot points) для корректного экспорта в игровой движок.
 
 ### 🛠️ Tools
 *   **Design:** Blender
 
----
+## 🔒 Авторские права
 
+© 2023–2026 Акбаров Дамир. Все права защищены.
 
+Этот проект и все его визуальные ассеты (3D-модели, текстуры, рендеры и дизайн) созданы в Blender и предназначены исключительно для демонстрации портфолио. Несанкционированное копирование, модификация или коммерческое использование данных материалов без явного письменного разрешения автора строго запрещены.
