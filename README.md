@@ -11,29 +11,28 @@ Models designed to replicate the aesthetic of classic late-90s console games, fo
 
 <img src="./Photo/Battery_1.png" width="250" alt="Work_1"> <img src="./Photo/Battery_2.png" width="250" alt="Work_2">
 
-## 👽 ALIEN
 
+### 🔹 Flat Stylized & Minimalist Models
+Assets focused on clean minimalist geometry, solid-color shading, and strong silhouettes:
+
+*   **Alien Character:** A stylized character mesh designed with balanced proportions, optimized for simple rigging and animation.
+    
 <img src="./Photo/Alien_1.png" width="250" alt="Work_1"> <img src="./Photo/Alien_2.png" width="250" alt="Work_2"> <img src="./Photo/Alien_3.png" width="250" alt="Work_3">
 
-## 🚘 CARTING
-
+*   **Arcade Karting Vehicle:** A compact vehicle model featuring modular parts and clean geometric forms.
+    
 <img src="./Photo/Carting_1.png" width="250" alt="Work_1"> <img src="./Photo/Carting_2.png" width="250" alt="Work_2"> <img src="./Photo/Carting_3.png" width="250" alt="Work_3">
 
-## 🍽️ PLATE AND SPOON
 
-<img src="./Photo/PlateAndSpoon_1.png" width="250" alt="Work_1"> <img src="./Photo/PlateAndSpoon_2.png" width="250" alt="Work_2"> <img src="./Photo/PlateAndSpoon_3.png" width="250" alt="Work_3">
-
-## 🎮 GAMING CONSOLE
-
+*   **Gaming Console & Storage Racks:** Structural and electronic props utilizing optimized shapes, distinct silhouettes, and clean bevels.
+    
 <img src="./Photo/GamingConsole_1.png" width="250" alt="Work_1"> <img src="./Photo/GamingConsole_2.png" width="250" alt="Work_2">
-
-## ⚙️RACK
 
 <img src="./Photo/Rack_1.png" width="250" alt="Work_1"> <img src="./Photo/Rack_2.png" width="250" alt="Work_2">
 
-## 🔋BATTERY
-
-<img src="./Photo/Battery_1.png" width="250" alt="Work_1"> <img src="./Photo/Battery_2.png" width="250" alt="Work_2">
+*   **Tableware (Plate & Spoon):** Everyday environment props focusing on clean cylindrical topology and smooth shading.
+    
+<img src="./Photo/PlateAndSpoon_1.png" width="250" alt="Work_1"> <img src="./Photo/PlateAndSpoon_2.png" width="250" alt="Work_2"> <img src="./Photo/PlateAndSpoon_3.png" width="250" alt="Work_3">
 
 ### 🛠 Tools
 * Design: Blender
