@@ -163,7 +163,9 @@ This project and all its visual assets (3D models, textures, renders, and design
     <img src="./Photo/GamingConsole_1.png" width="250" alt="Work_1"> <img src="./Photo/GamingConsole_2.png" width="250" alt="Work_2">
 
 *   **Посуда (Tableware - Plate & Spoon):** Базовые бытовые предметы окружения с правильной цилиндрической топологией и сглаженным отображением (smooth shading).
-    
+
+   <img src="./Photo/PlateAndSpoon_1.png" width="250" alt="Work_1"> <img src="./Photo/PlateAndSpoon_2.png" width="250" alt="Work_2"> <img src="./Photo/PlateAndSpoon_3.png" width="250" alt="Work_3">
+
 ### 🛠️ Tools
 *   **Design:** Blender
 
