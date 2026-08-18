@@ -51,7 +51,7 @@ These assets were designed for separate arcade and exploratory game prototypes. 
 *   **Workflow Guidelines:** Strict polygon budgets, clean quad-dominant topology, dynamic shading readiness, and proper pivot point alignment for seamless game engine integration.
 
 ### 🛠️ Tools
-*   **Design:** Blender
+* **Design:** Blender
 
 ---
 
@@ -112,8 +112,8 @@ This project and all its visual assets (3D models, textures, renders, and design
 *   **开发背景：** 在严格的硬件和引擎管线限制下创建资产（复古 PSX 风格 vs 现代低多边形极简风格）。
 *   **工艺标准：** 严格的四边形拓扑网格（Quad-dominant Topology），精准的面数预算控制（Polygon Budget），针对低分辨率纹理进行战略性 UV 缝合线布局（Seam Placement），以及完美校准的轴心点（Pivot Points），确保无缝导出至游戏引擎。
 
-### 🛠️ Tools
-*   **Design:** Blender
+### 🛠️ 工具
+* **设计：** Blender
 
 ---
 
@@ -166,8 +166,8 @@ This project and all its visual assets (3D models, textures, renders, and design
 
     <img src="./Photo/PlateAndSpoon_1.png" width="250" alt="Work_1"> <img src="./Photo/PlateAndSpoon_2.png" width="250" alt="Work_2"> <img src="./Photo/PlateAndSpoon_3.png" width="250" alt="Work_3">
 
-### 🛠️ Tools
-*   **Design:** Blender
+### 🛠️ Инструменты
+* **Дизайн:** Blender
 
 ---
 
